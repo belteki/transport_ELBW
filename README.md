@@ -91,7 +91,7 @@ I. [ventilator_data_processing_1_1100_ventilated](ventilator_data_processing_1_1
 
 Imported: **data_pars_measurements_1_1100.pickle,  data_pars_settings_1_1100.pickle, data_pars_alarms_1_1100.pickle**, **clin_df_1_1100.pickle**
 
-ExportedL: **data_pars_measurements_ventilated_1_1100.pickle, data_pars_settings_ventilated_1_1100.pickle, data_pars_alarms_ventilated_1_1100.pickle, vent_modes_ventilated_1_1100.pickle***
+Exported: **data_pars_measurements_ventilated_1_1100.pickle, data_pars_settings_ventilated_1_1100.pickle, data_pars_alarms_ventilated_1_1100.pickle, vent_modes_ventilated_1_1100.pickle**
 
 
 II. [ventilator_data_trimming_new_1_1305](ventilator_data_trimming_new_1_1305.ipynb): In this Notebook, recordings have been individually inspected and trimmed to remove periods when the ventilator was working but the patient was not connected. (Only recordings up to AT000818 were included in this study) 
@@ -99,12 +99,14 @@ II. [ventilator_data_trimming_new_1_1305](ventilator_data_trimming_new_1_1305.ip
 Imported: **data_pars_measurements_new_1_1305.pickle,  data_pars_settings_new_1_1305.pickle, data_pars_alarms_new_1_1305.pickle**, **clin_df_new.pickle**
 
 Exported: **data_pars_measurements_trimmed_new_1_1305.pickle,  data_pars_settings_trimmed_new_1_1305.pickle, data_pars_alarms_trimmed_new_1_1305.pickle, 
-vent_modes_trimmed_new_1_1305.pickle***
+vent_modes_trimmed_new_1_1305.pickle**
 
 
 ### F. Analysis of clinical and ventilator data of ELBW (<1000 g birth wieight) infants transferred during the first 24 hours of their life.**
 
 Consider recordings `AL000001 - AL001100` and `AT000001 - AT000818`.
+
+These Notesbooks use the pickle archives exported by the above Notebooks.
 
 1. [ELBW_analysis_ventilation](ELBW_analysis_ventilation.ipynb): Analysis of ventilator data of ELBW infants (born with <1000 g birth weight) who were transferred ventilated ex utero in the first 24 hours of life.
 
