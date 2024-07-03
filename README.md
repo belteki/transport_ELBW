@@ -36,6 +36,6 @@ matplotlib version: 3.6.2
 
 NumPy version: 1.21.5
 
-I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
+I recommend downloading these packages using the freely availably Anaconda built: [https://anaconda.org](https://anaconda.org)
 
 ____
