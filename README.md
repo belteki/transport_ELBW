@@ -102,7 +102,7 @@ Exported: **data_pars_measurements_trimmed_new_1_1305.pickle,  data_pars_setting
 vent_modes_trimmed_new_1_1305.pickle**
 
 
-### F. Analysis of clinical and ventilator data of ELBW (<1000 g birth wieight) infants transferred during the first 24 hours of their life.**
+### F. Analysis of clinical and ventilator data of ELBW (<1000 g birth wieight) infants transferred during the first 24 hours of their life.
 
 Consider recordings `AL000001 - AL001100` and `AT000001 - AT000818`.
 
