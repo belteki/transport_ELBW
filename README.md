@@ -5,17 +5,17 @@ Jupyter Notebooks used for processing and analysis of clinical and ventilator pa
 
 This repository contains the Python code used for data processing, statistical analysis and visualization described in the following paper:
 
+**Stabilization, respiratory care and survival of extremely low birth weight infants transferred on the first day of life. Journal of Perinatology, in press**
 
 
-Contact: gusztav.belteki@addenbrookes.nhs.uk; gbelteki@aol.com
+Contact: gbelteki@aol.com; gusztav.belteki@nhs.net 
 
 ____
 
 
 The outputs (numbers, tables, graphs) of the cells of the Jupyter Notebooks
 (.ipynb files) have been suppressed in order to comply with copyrights.
-Some of the corresponding data and graphs can be found in the paper and its
-only supplementary material.
+Some of the corresponding data and graphs can be found in the paper and its supplementary material.
 
 This code can be viewed in any web browser. If the code is displayed (rendered)
 in Github, copy and paste the URL (web adress) of the Notebook into [nbviewer](https://nbviewer.jupyter.org) for a read-only display.
