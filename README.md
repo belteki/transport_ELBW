@@ -59,12 +59,14 @@ II. Data downloaded from the **fabian +HFOi ventilator**: cases AT000001 - AT000
 ### B. Processing clinical data
 
 I. [clinical_data_1_1100](clinical_data_1_1100.ipynb): Processing of clinical data related to recordings AL000001 - AL001100. DataFrame containing the processed clinical data exported as **clin_df.pickle** 
+
 II. [clinical_data_new_1_1397](clinical_data_new_1_1397.ipynb): Processing of clinical data related to recordings AT000001 - AT001397. (Only cases up to AT000818 were included in this study). DataFrame containing the processed clinical data exported as **clin_df_new.pickle** 
 
 
 ### C. Processing of blood gases
 
 I. [blood gases_1_1100](blood_gases_1_1100.ipynb): Processing of clinical data related to recordings AL000001 - AL001100. Dictionary containing the processed blood gas data exported as pickle archive: **blood_gases_1_1100.pickle**
+
 II. [blood gases_new_1_1397](blood_gases_new_1_1397.ipynb): Processing of clinical data related to recordings AT000001 - AT001397. (Only cases up to AT000818 were included in the study). Dictionary containing the processed blood gas data exported as pickle archive: **blood_gases_new.pickle**
 
 
